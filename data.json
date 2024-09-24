@@ -1,0 +1,97 @@
+{
+    "points": [
+        {
+            "type": "point",
+            "longitude": 106.7986823851482,
+            "latitude": 10.876185156455417,
+            "Name": "Cây xanh 01",
+            "Location": "trong khuông viên trường ĐH KHTN",
+            "symbol": {
+                "type": "simple-marker",
+                "color": [0, 153, 51],
+                "outline": {
+                    "color": [255, 255, 255],
+                    "width": 1
+                }
+            },
+            "popupTemplate": {
+                "title": "{Name}",
+                "content": "Cây này ở <b>{Location}</b>."
+            }
+        },
+        {
+            "type": "point",
+            "longitude": 106.79597871846113,
+            "latitude": 10.872455347930213,
+            "Name": "Bóng Đèn 01",
+            "Location": "trong khuông viên trường ĐH TDTT",
+            "symbol": {
+                "type": "picture-marker",
+                "url" : "./symbol/illya.png",
+                "width": "30px",
+                "height": "30px"
+            },
+            "popupTemplate": {
+                "title": "{Name}",
+                "content": "Bóng đèn này ở <b>{Location}</b>."
+            }
+        }
+    ],
+    "lines": [
+        {
+            "type": "polyline",
+            "paths": [
+                [106.79134386128325, 10.866997521468168],
+                [106.79413335865881, 10.865395978158253],
+                [106.79833906239429, 10.864637349380688],
+                [106.80366056507997, 10.867882581189418],
+                [106.8083812529463, 10.873403608756607],
+                [106.80511968678411, 10.875552988801912],
+                [106.80318849629333, 10.876522311989321],
+                [106.80074232167169, 10.876522311989321],
+                [106.79949777668874, 10.878798101871515],
+                [106.79675119465743, 10.878882390052073],
+                [106.78988473957912, 10.875637277899806],
+                [106.79134386128325, 10.866997521468168]
+            ],
+            "symbol": {
+                "type": "simple-line",
+                "color": [226, 119, 40],
+                "width": 2
+            },
+            "Name": "Làng đại học",
+            "Location": "Quận Thủ Đức",
+            "popupTemplate": {
+                "title": "{Name}",
+                "content": "Khu vực này ở <b>{Location}</b>."
+            }
+        }
+    ],
+    "polygons": [
+        {
+            "type": "polygon",
+            "rings": [
+                [106.80514114445627, 10.870158436990936],
+                [106.80400388783394, 10.868915147546755],
+                [106.8032099539655, 10.868325110065758],
+                [106.80245893544132, 10.869210165849735],
+                [106.80245893544132, 10.869484111155634],
+                [106.8037463957685, 10.871085632526057]
+            ],
+            "Name": "Đại học CNTT",
+            "Location": "Khu phố 6, P.Linh Trung, Q.Thủ Đức, Tp.Hồ Chí Minh",
+            "symbol": {
+                "type": "simple-fill",
+					"color": [204, 153, 0, 0.4],
+					"outline": {
+						"color": [255, 255, 255],
+						"width": 1
+                    }
+            },
+            "popupTemplate": {
+                "title": "{Name}",
+                "content": "Trường ở <b>{Location}</b>."
+            }
+        }
+    ]
+}
