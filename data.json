@@ -84,7 +84,7 @@
             },
             "popupTemplate": {
                 "title": "{Name}",
-                "content": "{Name} ở gần <b>{Location}</b>."
+                "content": "Quán cà phê ở gần <b>{Location}</b>."
             }
         },
         {
@@ -95,13 +95,81 @@
             "Location": "Trường Đại học Thủy Lợi - Phân hiệu Bình Dương",
             "symbol": {
                 "type": "picture-marker",
-                "url" : "./symbol/dormitory.jpeg",
+                "url" : "./symbol/guest-house.jpeg",
                 "width": "30px",
                 "height": "30px"
             },
             "popupTemplate": {
                 "title": "{Name}",
                 "content": "{Name} của <b>{Location}</b>."
+            }
+        },
+        {
+            "type": "point",
+            "longitude": 106.64760325960522,
+            "latitude": 10.986378519003887, 
+            "Name": "Nhà khách",
+            "Location": "Trường Sĩ quan Công binh",
+            "symbol": {
+                "type": "picture-marker",
+                "url" : "./symbol/guest-house.jpeg",
+                "width": "30px",
+                "height": "30px"
+            },
+            "popupTemplate": {
+                "title": "{Name}",
+                "content": "{Name} của <b>{Location}</b>."
+            }
+        },
+        {
+            "type": "point",
+            "longitude": 106.6652157628415,
+            "latitude": 10.989945103729733, 
+            "Name": "Trung tâm Anh ngữ BOLT",
+            "Location": "Đại học Bình Dương",
+            "symbol": {
+                "type": "picture-marker",
+                "url" : "./symbol/english-center.jpeg",
+                "width": "30px",
+                "height": "30px"
+            },
+            "popupTemplate": {
+                "title": "{Name}",
+                "content": "{Name} <b>{Location}</b>."
+            }
+        },
+        {
+            "type": "point",
+            "longitude": 106.71175157176324,
+            "latitude": 10.957666735854696, 
+            "Name": "Trà sữa Nhanh",
+            "Location": "Trường Đại học Kinh tế - Kỹ thuật Bình Dương",
+            "symbol": {
+                "type": "picture-marker",
+                "url" : "./symbol/coffee-store.jpeg",
+                "width": "30px",
+                "height": "30px"
+            },
+            "popupTemplate": {
+                "title": "{Name}",
+                "content": "{Name} gần <b>{Location}</b>."
+            }
+        },
+        {
+            "type": "point",
+            "longitude": 106.66567112663625,
+            "latitude": 11.053888399820918, 
+            "Name": "Trung tâm ngoại ngữ",
+            "Location": "Trường Đại học Quốc tế Miền Đông",
+            "symbol": {
+                "type": "picture-marker",
+                "url" : "./symbol/english-center.jpeg",
+                "width": "30px",
+                "height": "30px"
+            },
+            "popupTemplate": {
+                "title": "{Name}",
+                "content": "{Name} <b>{Location}</b>."
             }
         }
     ],
