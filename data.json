@@ -38,19 +38,19 @@
         },
         {
             "type": "point",
-            "longitude": 106.67462098262588,
-            "latitude": 10.979545432830273, 
-            "Name": "GS25",
+            "longitude": 106.67551813356683,
+            "latitude": 10.981057170380698, 
+            "Name": "Cổng",
             "Location": "Trường Đại học Thủ Dầu Một",
             "symbol": {
                 "type": "picture-marker",
-                "url" : "./symbol/convenience-store.webp",
+                "url" : "./symbol/school-gate.jpeg",
                 "width": "30px",
                 "height": "30px"
             },
             "popupTemplate": {
                 "title": "{Name}",
-                "content": "Cửa hàng tiện lợi {Name} ở gần <b>{Location}</b>."
+                "content": "{Name} <b>{Location}</b>."
             }
         },
         {
@@ -61,7 +61,7 @@
             "Location": "Trường Đại học Việt Đức (VGU)",
             "symbol": {
                 "type": "picture-marker",
-                "url" : "./symbol/library.webp",
+                "url" : "./symbol/library.jpeg",
                 "width": "30px",
                 "height": "30px"
             },
@@ -78,7 +78,7 @@
             "Location": "Trường Đại học Mở Thành phố Hồ Chí Minh - Chi nhánh Bình Dương",
             "symbol": {
                 "type": "picture-marker",
-                "url" : "./symbol/coffee-store.webp",
+                "url" : "./symbol/coffee-store.jpeg",
                 "width": "30px",
                 "height": "30px"
             },
@@ -95,7 +95,7 @@
             "Location": "Trường Đại học Thủy Lợi - Phân hiệu Bình Dương",
             "symbol": {
                 "type": "picture-marker",
-                "url" : "./symbol/coffee-store.webp",
+                "url" : "./symbol/dormitory.jpeg",
                 "width": "30px",
                 "height": "30px"
             },
