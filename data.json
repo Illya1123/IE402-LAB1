@@ -35,6 +35,74 @@
                 "title": "{Name}",
                 "content": "Bóng đèn này ở <b>{Location}</b>."
             }
+        },
+        {
+            "type": "point",
+            "longitude": 106.67462098262588,
+            "latitude": 10.979545432830273, 
+            "Name": "GS25",
+            "Location": "Trường Đại học Thủ Dầu Một",
+            "symbol": {
+                "type": "picture-marker",
+                "url" : "./symbol/convenience-store.webp",
+                "width": "30px",
+                "height": "30px"
+            },
+            "popupTemplate": {
+                "title": "{Name}",
+                "content": "Cửa hàng tiện lợi {Name} ở gần <b>{Location}</b>."
+            }
+        },
+        {
+            "type": "point",
+            "longitude": 106.6142779569446,
+            "latitude": 11.10846555031337,
+            "Name": "Thư viện",
+            "Location": "Trường Đại học Việt Đức (VGU)",
+            "symbol": {
+                "type": "picture-marker",
+                "url" : "./symbol/library.webp",
+                "width": "30px",
+                "height": "30px"
+            },
+            "popupTemplate": {
+                "title": "{Name}",
+                "content": "{Name} ở <b>{Location}</b>."
+            }
+        },
+        {
+            "type": "point",
+            "longitude": 106.67341225390447,
+            "latitude": 10.987465207642773,
+            "Name": "Cafe Xanh2Go",
+            "Location": "Trường Đại học Mở Thành phố Hồ Chí Minh - Chi nhánh Bình Dương",
+            "symbol": {
+                "type": "picture-marker",
+                "url" : "./symbol/coffee-store.webp",
+                "width": "30px",
+                "height": "30px"
+            },
+            "popupTemplate": {
+                "title": "{Name}",
+                "content": "{Name} ở gần <b>{Location}</b>."
+            }
+        },
+        {
+            "type": "point",
+            "longitude": 106.68257237689322,
+            "latitude": 10.949525865846814, 
+            "Name": "Kí túc xá",
+            "Location": "Trường Đại học Thủy Lợi - Phân hiệu Bình Dương",
+            "symbol": {
+                "type": "picture-marker",
+                "url" : "./symbol/coffee-store.webp",
+                "width": "30px",
+                "height": "30px"
+            },
+            "popupTemplate": {
+                "title": "{Name}",
+                "content": "{Name} của <b>{Location}</b>."
+            }
         }
     ],
     "lines": [
