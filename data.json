@@ -201,6 +201,27 @@
                 "title": "{Name}",
                 "content": "Khu vực này ở <b>{Location}</b>."
             }
+        },
+        {
+            "type": "polyline",
+            "paths": [
+                [106.70166190125168, 10.955662660598806],
+                [106.69813211418428, 10.95905436311924],
+                [106.69636537364242, 10.960255194492659],
+                [106.68162641563258, 10.967288752099385],
+                [106.67170036878369, 10.972565111522467]
+            ],
+            "symbol": {
+                "type": "simple-line",
+                "color": [226, 119, 40],
+                "width": 2
+            },
+            "Name": "Một đoạn đường QL13",
+            "Location": "Tỉnh Bình Dương",
+            "popupTemplate": {
+                "title": "{Name}",
+                "content": "Đoạn đường được vẽ này ở <b>{Location}</b>."
+            }
         }
     ],
     "polygons": [

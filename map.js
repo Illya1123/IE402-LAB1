@@ -11,7 +11,8 @@ require([
   var view = new MapView({
     container: "viewDiv",
     map: map,
-    center: [106.8033387, 10.8739831],
+    // center: [106.8033387, 10.8739831],
+    center: [106.70166190125168, 10.955662660598806],
     zoom: 15,
     highlightOptions: {
       color: "blue",
