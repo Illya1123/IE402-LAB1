@@ -12,7 +12,7 @@ require([
     container: "viewDiv",
     map: map,
     // center: [106.8033387, 10.8739831],
-    center: [106.70166190125168, 10.955662660598806],
+    center: [106.61819216561304, 11.111863916122832],
     zoom: 15,
     highlightOptions: {
       color: "blue",
