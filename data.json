@@ -2791,7 +2791,7 @@
                 [106.6041495, 11.0400187],
                 [106.6034321, 11.0395281]
             ],
-            "Name": "Dĩ An",
+            "Name": "Bến Cát",
             "symbol": {
                 "type": "simple-fill",
 					"color": [174, 298, 12, 0.4],
@@ -2802,7 +2802,7 @@
             },
             "popupTemplate": {
                 "title": "{Name}",
-                "content": "Dĩ An - Bình Dương."
+                "content": "Bến Cát - Bình Dương."
             }
         }
     ]
