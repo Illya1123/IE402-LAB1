@@ -8,9 +8,9 @@
             "Location": "Trường Đại học Thủ Dầu Một",
             "symbol": {
                 "type": "picture-marker",
-                "url" : "./symbol/school-gate.jpeg",
-                "width": "30px",
-                "height": "30px"
+                "url" : "./symbol/school.svg",
+                "width": "24px",
+                "height": "24px"
             },
             "popupTemplate": {
                 "title": "{Name}",
@@ -25,9 +25,9 @@
             "Location": "Trường Đại học Việt Đức (VGU)",
             "symbol": {
                 "type": "picture-marker",
-                "url" : "./symbol/library.jpeg",
-                "width": "30px",
-                "height": "30px"
+                "url" : "./symbol/circle-book-open.svg",
+                "width": "24px",
+                "height": "24px"
             },
             "popupTemplate": {
                 "title": "{Name}",
@@ -42,9 +42,9 @@
             "Location": "Trường Đại học Mở Thành phố Hồ Chí Minh - Chi nhánh Bình Dương",
             "symbol": {
                 "type": "picture-marker",
-                "url" : "./symbol/coffee-store.jpeg",
-                "width": "30px",
-                "height": "30px"
+                "url" : "./symbol/coffee.svg",
+                "width": "24px",
+                "height": "24px"
             },
             "popupTemplate": {
                 "title": "{Name}",
@@ -59,9 +59,9 @@
             "Location": "Trường Đại học Thủy Lợi - Phân hiệu Bình Dương",
             "symbol": {
                 "type": "picture-marker",
-                "url" : "./symbol/guest-house.jpeg",
-                "width": "30px",
-                "height": "30px"
+                "url" : "./symbol/apartment.svg",
+                "width": "24px",
+                "height": "24px"
             },
             "popupTemplate": {
                 "title": "{Name}",
@@ -76,9 +76,9 @@
             "Location": "Trường Sĩ quan Công binh",
             "symbol": {
                 "type": "picture-marker",
-                "url" : "./symbol/guest-house.jpeg",
-                "width": "30px",
-                "height": "30px"
+                "url" : "./symbol/apartment.svg",
+                "width": "24px",
+                "height": "24px"
             },
             "popupTemplate": {
                 "title": "{Name}",
@@ -93,9 +93,9 @@
             "Location": "Trường Đại học Bình Dương",
             "symbol": {
                 "type": "picture-marker",
-                "url" : "./symbol/coffee-store.jpeg",
-                "width": "30px",
-                "height": "30px"
+                "url" : "./symbol/coffee.svg",
+                "width": "24px",
+                "height": "24px"
             },
             "popupTemplate": {
                 "title": "{Name}",
@@ -110,9 +110,9 @@
             "Location": "Trường Đại học Kinh tế - Kỹ thuật Bình Dương",
             "symbol": {
                 "type": "picture-marker",
-                "url" : "./symbol/coffee-store.jpeg",
-                "width": "30px",
-                "height": "30px"
+                "url" : "./symbol/coffee.svg",
+                "width": "24px",
+                "height": "24px"
             },
             "popupTemplate": {
                 "title": "{Name}",
@@ -127,9 +127,9 @@
             "Location": "Trường Đại học Quốc tế Miền Đông",
             "symbol": {
                 "type": "picture-marker",
-                "url" : "./symbol/english-center.jpeg",
-                "width": "30px",
-                "height": "30px"
+                "url" : "./symbol/english.svg",
+                "width": "24px",
+                "height": "24px"
             },
             "popupTemplate": {
                 "title": "{Name}",
